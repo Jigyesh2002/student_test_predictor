@@ -9,3 +9,4 @@ seaborn
 plotly
 requests
 pydantic
+statsmodels
